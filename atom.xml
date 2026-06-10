@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, wwh</rights>
   <subtitle>Aspire的博客 欢迎来到我的博客</subtitle>
   <title>Aspire</title>
-  <updated>2026-06-08T05:20:55.708Z</updated>
+  <updated>2026-06-10T03:32:38.649Z</updated>
   <entry>
     <author>
       <name>wwh</name>
@@ -20,11 +20,29 @@
     </content>
     <id>http://example.com/posts/4a17b156.html</id>
     <link href="http://example.com/posts/4a17b156.html"/>
-    <published>2026-06-03T05:44:55.573Z</published>
+    <published>2026-06-10T03:32:38.649Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
     </summary>
     <title>Hello World</title>
-    <updated>2026-06-08T05:20:55.708Z</updated>
+    <updated>2026-06-10T03:32:38.649Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>wwh</name>
+    </author>
+    <category term="好书分享" scheme="http://example.com/tags/%E5%A5%BD%E4%B9%A6%E5%88%86%E4%BA%AB/"/>
+    <content>
+      <![CDATA[<h1 id="云边有个小卖部"><a href="#云边有个小卖部" class="headerlink" title="云边有个小卖部"></a>云边有个小卖部</h1><blockquote><p>翻开这本书，就像走进了慢悠悠的云边镇。<br>小卖部、老槐树、山间晚风，勾勒出独有的乡土温情。<br><span style="color: #2385bb;">离别是常态，可那些留在岁月里的爱，从未走远。</span>书中写尽了成长的迷茫、现实的无奈，也写透了亲情、友情与爱情的模样。<br>如果你觉得疲惫、迷茫，不妨走进云边镇，在这里找回心底的温柔与力量。<br><div class="tip success"><p>success</p></div></p></blockquote>]]>
+    </content>
+    <id>http://example.com/posts/4c32c6bc.html</id>
+    <link href="http://example.com/posts/4c32c6bc.html"/>
+    <published>2026-06-09T15:48:50.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="云边有个小卖部"><a href="#云边有个小卖部" class="headerlink" title="云边有个小卖部"></a>云边有个小卖部</h1><blockquote>
+<p>翻开这本书，就像走进了慢悠悠的云边镇。<br>小卖部、老槐树、山间晚风，勾]]>
+    </summary>
+    <title>好书分享——《云边有个小卖部》</title>
+    <updated>2026-06-10T03:32:38.649Z</updated>
   </entry>
 </feed>
